@@ -1,4 +1,3 @@
-<div align="center">
+$${\textsf{\color{#00000} **I hate GitHub ok**}}$$
 
-## $\color{white}\text{ i hate GitHub ok}$ 
-
+<p align="center">
