@@ -1,6 +1,6 @@
 $${\textsf{\color{#00000} **I really like adam murray**}}$$
 
 <p align="center">
-<img width="374" height="283" alt="image" src="https://github.com/user-attachments/assets/45900f6c-da15-470c-b4ea-8aa2363a7cc0" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/45900f6c-da15-470c-b4ea-8aa2363a7cc0" />
 
   
