@@ -1,5 +1,5 @@
 <div align="center">
 
 
-## $\color{white}\text{ i hate GitHub ok}$ <br> 
+## $\color{white}\text{ i hate GitHub ok}$ 
 
